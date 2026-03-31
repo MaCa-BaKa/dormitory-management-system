@@ -1,5 +1,7 @@
-# 19
-# 学生宿舍管理系统
+# 19-学生宿舍管理系统
+
+[文档地址](http://wechat.zjrcsy.cn/)
+
 #### 介绍
 学生宿舍管理系统
 技术：
@@ -39,7 +41,4 @@ Idea mysql maven jdk1.8
 ![宿舍8](https://github.com/MaCa-BaKa/dormitory-management-system/assets/102128690/c2a89300-04de-4e7f-a008-6bc4ba90738a)
 
 
-**
-
-### 需要本系统联系vx: MaKaBaca0
-** 
+[文档地址](http://wechat.zjrcsy.cn/)
